@@ -54,13 +54,13 @@ Quy trình đào tạo được để trong `main.py`. Hãy lưu ý rằng mỗi
 
 ## Cấu trúc của mạng đào tạo
 Mạng PPO được áp dụng để đào tạo
-![architecture](src/Cấu trúc.png)
+![Cấu trúc](src/Cấu trúc.png)
 
 ## Cấu trúc của tác nhân
 Cấu trúc đầu vào và đầu ra của tác nhân
-![agent_architecture](src/Cấu trúc xe.png)
+![Cấu trúc xe](src/Cấu trúc xe.png)
 
 ## Kết quả
 
 Kết quả xe chuyển làn thành công trên thị trấn 3 của Carla
-![result](result/Chuyen Lan.mp4)
+![Chuyen Lan](result/Chuyen Lan.mp4)
