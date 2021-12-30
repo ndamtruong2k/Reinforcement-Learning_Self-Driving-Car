@@ -53,14 +53,17 @@ learning.stage_s1(episodes=5, timesteps=256, gamma=0.999, lambda_=0.995, save_ev
 Quy trình đào tạo được để trong `main.py`. Hãy lưu ý rằng mỗi giai đoạn có thể mất nhiều thời gian để hoàn thành, vì vậy hãy comment những gì bạn không muốn chạy
 
 ## Cấu trúc của mạng đào tạo
-Mạng PPO được áp dụng để đào tạo
-![Cấu trúc](src/Cấu trúc.png)
+Mạng PPO được áp dụng để đào tạo.
+
+![Image_0](src/Cau_truc_PPO.png)
 
 ## Cấu trúc của tác nhân
-Cấu trúc đầu vào và đầu ra của tác nhân
-![Cấu trúc xe](src/Cấu trúc xe.png)
+Cấu trúc đầu vào và đầu ra của tác nhân.
+
+![Image_1](src/Cau_truc_xe .png)
 
 ## Kết quả
 
-Kết quả xe chuyển làn thành công trên thị trấn 3 của Carla
-![Chuyen Lan](result/Chuyen Lan.mp4)
+Kết quả xe chuyển làn thành công trên thị trấn 3 của Carla.
+
+![Video_0](result/Chuyen_lan.mp4)
