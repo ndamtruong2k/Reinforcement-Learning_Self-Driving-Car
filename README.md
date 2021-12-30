@@ -60,7 +60,7 @@ Mạng PPO được áp dụng để đào tạo.
 ## Cấu trúc của tác nhân
 Cấu trúc đầu vào và đầu ra của tác nhân.
 
-![Image_1](src/Cau_truc_xe .png)
+![Image_1](src/Cau_truc_xe.png)
 
 ## Kết quả
 
